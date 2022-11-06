@@ -1,0 +1,43 @@
+  >=
+>= | so sanh lon hon bang
+
+  ab=
+ab | ten bien
+= | gan
+
+  _x2a = 12.231
+_x2a | ten bien
+= | gan
+12.231 | so thuc
+
+  12.221
+12.221 | so thuc
+
+  0923
+0923 | Loi so bat phan khong co 8|9
+
+  01234167
+01234167 | so nguyen he bat phan
+
+  078924
+078924 | Loi so bat phan khong co 8|9
+
+  0xA12aF
+0xA12aF | so nguyen he thap luc phan
+
+  0XF123h
+0XF123h | Loi so nguyen he thap luc phan chi co (0..9|a..f|A..F)
+
+  0
+0 | so 0
+
+     1243432
+1243432 | so nguyen he thap phan
+
+     0ada
+0 | so 0
+ada | ten bien
+
+/***adadadad*/
+/***adadadad*/ | chu thich tren nhieu dong
+
